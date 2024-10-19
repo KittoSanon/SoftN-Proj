@@ -1,10 +1,12 @@
-import Home from "./pages/HOME/home";
+import event from "./Pages/event";
 
-function App() {
+function App() 
+{
   return (
-  <div> 
-    <Home/>
-  </div>
+    <div>
+      <event />
+      To create event pages
+    </div>
   );
 }
 
