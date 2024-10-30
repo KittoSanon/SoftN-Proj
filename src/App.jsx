@@ -9,7 +9,7 @@ function App() {
       <LeftBar />
       อ้าาาาาาาาาาาา
       <RightBar />
-      ;b=ksy;8;p
+      ;b=ksy;8;p อ้าาาาาาาาาา
     </div>
   );
 }
