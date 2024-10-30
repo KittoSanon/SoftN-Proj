@@ -13,7 +13,7 @@ function App() {
       test 2
 
       <RightBar />
-      NgoNgo dddddddddddddddd
+      NgoNgo dddddddddddddddd ggg
       
     </div>
   );
