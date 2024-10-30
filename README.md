@@ -12,4 +12,4 @@ When you finished you work for today follow this step
 1. Go to source control (3rd icon on navbar)
 2. click on "commit" button 
 3. On the first line, write what you do or change in this day then click on the tick/ckecj icon on the top right
-4. click sync 
+4. click sync changes
