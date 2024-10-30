@@ -8,11 +8,13 @@ function App() {
       Home 
 
       Event
-      
+
       <LeftBar />
       test 2
+
       <RightBar />
       test 3
+      
     </div>
   );
 }
