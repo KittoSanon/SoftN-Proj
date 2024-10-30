@@ -1,12 +1,17 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-
+import Navbar from "./Frontend/components/navbar/Navbar";
+import LeftBar from "./Frontend/components/leftBar/LeftBar";
+import RightBar from "./Frontend/components/rightBar/RightBar";
 function App() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <Navbar />
+      ซอฟเอนหัวควยยยยยยยยยยยยยยยยยย
+      <LeftBar />
+      อ้าาาาาาาาาาาา
+      <RightBar />
+      กรี๊ดดดดดดดดดดดดดดดด
     </div>
   );
 }
 
-ReactDOM.render(<App />, document.getElementById('root'));
+export default App;
