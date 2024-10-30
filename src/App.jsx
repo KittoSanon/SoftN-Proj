@@ -5,11 +5,14 @@ function App() {
   return (
     <div>
       <Navbar />
-      ซอฟเอนหัวควยยยยยยยยยยยยยยยยยย
+      Home 
+
+      Event
+      
       <LeftBar />
-      อ้าาาาาาาาาาาา
+      test 2
       <RightBar />
-      วิชาหัวควย อ้าาาาาาาาาา
+      test 3
     </div>
   );
 }
