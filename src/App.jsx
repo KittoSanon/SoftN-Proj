@@ -13,7 +13,7 @@ function App() {
       test 2
 
       <RightBar />
-      test 3
+      test 3 dddddddddddddddd
       
     </div>
   );
