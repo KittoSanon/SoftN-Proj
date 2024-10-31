@@ -3,7 +3,7 @@ import psycopg2
 from config import host,port,user,password,database_name
 
 def create_database():
-#     """Create a new PostgreSQL database."""
+#     """Create a new PostgreSQL database."""lokkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkpolkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkppppppkkpppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppxcdgyyyyyf
     # Connect to the default 'postgres' database to create a new database
 
     print(database_name)
